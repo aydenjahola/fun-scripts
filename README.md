@@ -25,3 +25,12 @@ chmod +x script_name.sh
 ## Contribution
 We welcome contributions to the project, please feel free to submit a pull request with your script of liking and kindly request that when submitting a pull request please provide a clear explanation of the script's function and ensure that it does not already exist in the project.
 
+## Disclaimer
+This software is provided for entertaining and educational purposes only and
+is provided "AS IS", without warranty of any kind, express or
+implied, including but not limited to the warranties of merchantability,
+fitness for a particular purpose and noninfringement. in no event shall the
+authors or copyright holders be liable for any claim, damages or other
+liability, whether in an action of contract, tort or otherwise, arising from,
+out of or in connection with the software or the use or other dealings in the
+software.
