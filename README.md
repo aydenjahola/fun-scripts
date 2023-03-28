@@ -22,5 +22,6 @@ chmod +x script_name.sh
 ./script_name.sh
 ```
 
-
+## Contribution
+We welcome contributions to the project, please feel free to submit a pull request with your script of liking and kindly request that when submitting a pull request please provide a clear explanation of the script's function and ensure that it does not already exist in the project.
 
