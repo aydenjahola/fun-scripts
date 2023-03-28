@@ -27,7 +27,7 @@ We welcome contributions to the project, please feel free to submit a pull reque
 
 ## Disclaimer
 This software is provided for entertaining and educational purposes only and
-is provided "AS IS", without warranty of any kind, express or
+is provided "AS IS" under the [MIT License](https://github.com/aydenjahola/fun-scripts/blob/main/LICENSE), without warranty of any kind, express or
 implied, including but not limited to the warranties of merchantability,
 fitness for a particular purpose and noninfringement. in no event shall the
 authors or copyright holders be liable for any claim, damages or other
